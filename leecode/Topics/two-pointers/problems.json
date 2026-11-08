@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-08T08:54:22.516Z",
+  "updatedAt": "2026-11-08T08:57:06.772Z",
   "problems": [
     {
       "frontendId": "143",
@@ -24,6 +24,26 @@
           "path": "leecode/0143-reorder-list/Java/0143-reorder-list.java",
           "sha": "f62b3400787bf73c5dbb77862fc913a535337f8b",
           "lastSyncedAt": "2026-11-08T08:54:22.516Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "457",
+      "title": "Circular Array Loop",
+      "slug": "circular-array-loop",
+      "problemName": "0457-circular-array-loop",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/circular-array-loop/",
+      "folderPath": "leecode/0457-circular-array-loop/",
+      "readmePath": "leecode/0457-circular-array-loop/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0457-circular-array-loop.java",
+          "path": "leecode/0457-circular-array-loop/Java/0457-circular-array-loop.java",
+          "sha": "132045488bdda0a20fb8c532876b54847329e83f",
+          "lastSyncedAt": "2026-11-08T08:57:06.772Z"
         }
       ]
     }
