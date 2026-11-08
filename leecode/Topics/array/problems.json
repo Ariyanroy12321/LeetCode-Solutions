@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-08T08:57:06.772Z",
+  "updatedAt": "2026-11-08T08:57:34.872Z",
   "problems": [
     {
       "frontendId": "122",
@@ -24,6 +24,26 @@
           "path": "leecode/0122-best-time-to-buy-and-sell-stock-ii/0122-best-time-to-buy-and-sell-stock-ii.java",
           "sha": "2891f2a389936df669b5623e4df1173210ae7a54",
           "lastSyncedAt": "2026-11-08T08:54:08.385Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "287",
+      "title": "Find the Duplicate Number",
+      "slug": "find-the-duplicate-number",
+      "problemName": "0287-find-the-duplicate-number",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-duplicate-number/",
+      "folderPath": "leecode/0287-find-the-duplicate-number/",
+      "readmePath": "leecode/0287-find-the-duplicate-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0287-find-the-duplicate-number.java",
+          "path": "leecode/0287-find-the-duplicate-number/Java/0287-find-the-duplicate-number.java",
+          "sha": "ee872d74dd9b6fe4509180a107ee91c0aca5f2b6",
+          "lastSyncedAt": "2026-11-08T08:57:34.872Z"
         }
       ]
     },
