@@ -5,7 +5,7 @@
     "name": "Sliding Window",
     "tagId": "55821"
   },
-  "updatedAt": "2026-11-08T08:55:20.528Z",
+  "updatedAt": "2026-11-08T08:56:42.159Z",
   "problems": [
     {
       "frontendId": "3",
@@ -24,6 +24,26 @@
           "path": "leecode/0003-longest-substring-without-repeating-characters/Java/0003-longest-substring-without-repeating-characters.java",
           "sha": "fa1e3d1320ec947a5d426927d191c929f31da7ae",
           "lastSyncedAt": "2026-11-08T08:55:20.528Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "904",
+      "title": "Fruit Into Baskets",
+      "slug": "fruit-into-baskets",
+      "problemName": "0904-fruit-into-baskets",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/fruit-into-baskets/",
+      "folderPath": "leecode/0904-fruit-into-baskets/",
+      "readmePath": "leecode/0904-fruit-into-baskets/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0904-fruit-into-baskets.java",
+          "path": "leecode/0904-fruit-into-baskets/Java/0904-fruit-into-baskets.java",
+          "sha": "ef81e1d6b0d0048a75f54790970a880ab1547521",
+          "lastSyncedAt": "2026-11-08T08:56:42.159Z"
         }
       ]
     }
