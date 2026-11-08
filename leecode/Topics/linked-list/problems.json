@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-08T08:58:12.249Z",
+  "updatedAt": "2026-11-08T08:58:22.167Z",
   "problems": [
     {
       "frontendId": "2",
@@ -24,6 +24,26 @@
           "path": "leecode/0002-add-two-numbers/Java/0002-add-two-numbers.java",
           "sha": "0bac8b64ae43153ee5ae54a3645be12c8fcee624",
           "lastSyncedAt": "2026-11-08T08:56:56.006Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "92",
+      "title": "Reverse Linked List II",
+      "slug": "reverse-linked-list-ii",
+      "problemName": "0092-reverse-linked-list-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-linked-list-ii/",
+      "folderPath": "leecode/0092-reverse-linked-list-ii/",
+      "readmePath": "leecode/0092-reverse-linked-list-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0092-reverse-linked-list-ii.java",
+          "path": "leecode/0092-reverse-linked-list-ii/Java/0092-reverse-linked-list-ii.java",
+          "sha": "8c794119952fc3c52b63c7c14edd19bd1b76182c",
+          "lastSyncedAt": "2026-11-08T08:58:22.167Z"
         }
       ]
     },
