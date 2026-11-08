@@ -5,8 +5,28 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-08T08:54:38.945Z",
+  "updatedAt": "2026-11-08T08:54:45.688Z",
   "problems": [
+    {
+      "frontendId": "177",
+      "title": "Nth Highest Salary",
+      "slug": "nth-highest-salary",
+      "problemName": "0177-nth-highest-salary",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/nth-highest-salary/",
+      "folderPath": "leecode/0177-nth-highest-salary/",
+      "readmePath": "leecode/0177-nth-highest-salary/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0177-nth-highest-salary.sql",
+          "path": "leecode/0177-nth-highest-salary/MySQL/0177-nth-highest-salary.sql",
+          "sha": "678ddb9843a8f45e10092670b6206738686cab56",
+          "lastSyncedAt": "2026-11-08T08:54:45.688Z"
+        }
+      ]
+    },
     {
       "frontendId": "182",
       "title": "Duplicate Emails",
