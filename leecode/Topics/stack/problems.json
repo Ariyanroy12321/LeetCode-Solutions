@@ -5,7 +5,7 @@
     "name": "Stack",
     "tagId": "15"
   },
-  "updatedAt": "2026-11-08T08:57:18.548Z",
+  "updatedAt": "2026-11-08T08:58:33.649Z",
   "problems": [
     {
       "frontendId": "143",
@@ -44,6 +44,26 @@
           "path": "leecode/0234-palindrome-linked-list/Java/0234-palindrome-linked-list.java",
           "sha": "4e01b57a3c686035ecf8f12929d3b31db006c2db",
           "lastSyncedAt": "2026-11-08T08:57:18.548Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "581",
+      "title": "Shortest Unsorted Continuous Subarray",
+      "slug": "shortest-unsorted-continuous-subarray",
+      "problemName": "0581-shortest-unsorted-continuous-subarray",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/shortest-unsorted-continuous-subarray/",
+      "folderPath": "leecode/0581-shortest-unsorted-continuous-subarray/",
+      "readmePath": "leecode/0581-shortest-unsorted-continuous-subarray/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0581-shortest-unsorted-continuous-subarray.java",
+          "path": "leecode/0581-shortest-unsorted-continuous-subarray/Java/0581-shortest-unsorted-continuous-subarray.java",
+          "sha": "d61c2f22b0675f396790defcd106b28bddfdd22f",
+          "lastSyncedAt": "2026-11-08T08:58:33.649Z"
         }
       ]
     }
