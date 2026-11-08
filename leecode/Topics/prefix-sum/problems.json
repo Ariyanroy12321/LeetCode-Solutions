@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "prefix-sum",
+    "name": "Prefix Sum",
+    "tagId": "61068"
+  },
+  "updatedAt": "2026-11-08T08:59:11.272Z",
+  "problems": [
+    {
+      "frontendId": "209",
+      "title": "Minimum Size Subarray Sum",
+      "slug": "minimum-size-subarray-sum",
+      "problemName": "0209-minimum-size-subarray-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-size-subarray-sum/",
+      "folderPath": "leecode/0209-minimum-size-subarray-sum/",
+      "readmePath": "leecode/0209-minimum-size-subarray-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0209-minimum-size-subarray-sum.java",
+          "path": "leecode/0209-minimum-size-subarray-sum/Java/0209-minimum-size-subarray-sum.java",
+          "sha": "5239a4a1cc34f3fd2be625230eb7ea3f0e53a992",
+          "lastSyncedAt": "2026-11-08T08:59:11.272Z"
+        }
+      ]
+    }
+  ]
+}
