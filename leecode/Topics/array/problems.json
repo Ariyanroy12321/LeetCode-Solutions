@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-08T08:59:55.137Z",
+  "updatedAt": "2026-11-08T09:00:07.819Z",
   "problems": [
     {
       "frontendId": "15",
@@ -104,6 +104,26 @@
           "path": "leecode/0122-best-time-to-buy-and-sell-stock-ii/0122-best-time-to-buy-and-sell-stock-ii.java",
           "sha": "2891f2a389936df669b5623e4df1173210ae7a54",
           "lastSyncedAt": "2026-11-08T08:54:08.385Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "189",
+      "title": "Rotate Array",
+      "slug": "rotate-array",
+      "problemName": "0189-rotate-array",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/rotate-array/",
+      "folderPath": "leecode/0189-rotate-array/",
+      "readmePath": "leecode/0189-rotate-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0189-rotate-array.java",
+          "path": "leecode/0189-rotate-array/Java/0189-rotate-array.java",
+          "sha": "9db55f0c39a2233b458d92d7edec2b70a2163194",
+          "lastSyncedAt": "2026-11-08T09:00:07.819Z"
         }
       ]
     },
