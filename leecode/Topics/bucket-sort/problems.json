@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "bucket-sort",
+    "name": "Bucket Sort",
+    "tagId": "61060"
+  },
+  "updatedAt": "2026-11-08T08:56:00.919Z",
+  "problems": [
+    {
+      "frontendId": "451",
+      "title": "Sort Characters By Frequency",
+      "slug": "sort-characters-by-frequency",
+      "problemName": "0451-sort-characters-by-frequency",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/sort-characters-by-frequency/",
+      "folderPath": "leecode/0451-sort-characters-by-frequency/",
+      "readmePath": "leecode/0451-sort-characters-by-frequency/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0451-sort-characters-by-frequency.java",
+          "path": "leecode/0451-sort-characters-by-frequency/Java/0451-sort-characters-by-frequency.java",
+          "sha": "f0cc8180f6f258f510c517a2bb84c2506d51d316",
+          "lastSyncedAt": "2026-11-08T08:56:00.919Z"
+        }
+      ]
+    }
+  ]
+}
