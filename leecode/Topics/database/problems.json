@@ -5,8 +5,28 @@
     "name": "Database",
     "tagId": "61043"
   },
-  "updatedAt": "2026-11-08T08:55:10.415Z",
+  "updatedAt": "2026-11-08T08:55:14.890Z",
   "problems": [
+    {
+      "frontendId": "175",
+      "title": "Combine Two Tables",
+      "slug": "combine-two-tables",
+      "problemName": "0175-combine-two-tables",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/combine-two-tables/",
+      "folderPath": "leecode/0175-combine-two-tables/",
+      "readmePath": "leecode/0175-combine-two-tables/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0175-combine-two-tables.sql",
+          "path": "leecode/0175-combine-two-tables/MySQL/0175-combine-two-tables.sql",
+          "sha": "c3c5fac1e09d310559606baf21d294c5e13a448b",
+          "lastSyncedAt": "2026-11-08T08:55:14.890Z"
+        }
+      ]
+    },
     {
       "frontendId": "176",
       "title": "Second Highest Salary",
