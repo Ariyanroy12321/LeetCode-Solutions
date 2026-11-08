@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-08T08:57:06.772Z",
+  "updatedAt": "2026-11-08T08:57:52.353Z",
   "problems": [
     {
       "frontendId": "3",
@@ -24,6 +24,26 @@
           "path": "leecode/0003-longest-substring-without-repeating-characters/Java/0003-longest-substring-without-repeating-characters.java",
           "sha": "fa1e3d1320ec947a5d426927d191c929f31da7ae",
           "lastSyncedAt": "2026-11-08T08:55:20.528Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "202",
+      "title": "Happy Number",
+      "slug": "happy-number",
+      "problemName": "0202-happy-number",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/happy-number/",
+      "folderPath": "leecode/0202-happy-number/",
+      "readmePath": "leecode/0202-happy-number/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0202-happy-number.java",
+          "path": "leecode/0202-happy-number/Java/0202-happy-number.java",
+          "sha": "1ef62772b3c27f162e030640cc8835d6a4e5945b",
+          "lastSyncedAt": "2026-11-08T08:57:52.353Z"
         }
       ]
     },
