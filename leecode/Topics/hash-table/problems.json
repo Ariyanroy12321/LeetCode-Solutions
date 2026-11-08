@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-08T08:56:00.919Z",
+  "updatedAt": "2026-11-08T08:56:18.151Z",
   "problems": [
     {
       "frontendId": "3",
@@ -104,6 +104,26 @@
           "path": "leecode/1189-maximum-number-of-balloons/Java/1189-maximum-number-of-balloons.java",
           "sha": "4344f2046e23b9b3f8f68fbc1dfa3bf89a031795",
           "lastSyncedAt": "2026-11-08T08:55:52.092Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2351",
+      "title": "First Letter to Appear Twice",
+      "slug": "first-letter-to-appear-twice",
+      "problemName": "2351-first-letter-to-appear-twice",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/first-letter-to-appear-twice/",
+      "folderPath": "leecode/2351-first-letter-to-appear-twice/",
+      "readmePath": "leecode/2351-first-letter-to-appear-twice/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2351-first-letter-to-appear-twice.java",
+          "path": "leecode/2351-first-letter-to-appear-twice/Java/2351-first-letter-to-appear-twice.java",
+          "sha": "5b864b612656b501f8b599c03959a0bc81201967",
+          "lastSyncedAt": "2026-11-08T08:56:18.151Z"
         }
       ]
     }
