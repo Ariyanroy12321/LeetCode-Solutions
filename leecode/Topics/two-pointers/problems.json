@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-08T09:01:16.178Z",
+  "updatedAt": "2026-11-08T09:01:22.646Z",
   "problems": [
     {
       "frontendId": "15",
@@ -84,6 +84,26 @@
           "path": "leecode/0026-remove-duplicates-from-sorted-array/Java/0026-remove-duplicates-from-sorted-array.java",
           "sha": "57081d3a67408bfc8ba8158eab0f16a2d9dbaa26",
           "lastSyncedAt": "2026-11-08T09:01:16.178Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "27",
+      "title": "Remove Element",
+      "slug": "remove-element",
+      "problemName": "0027-remove-element",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/remove-element/",
+      "folderPath": "leecode/0027-remove-element/",
+      "readmePath": "leecode/0027-remove-element/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0027-remove-element.java",
+          "path": "leecode/0027-remove-element/Java/0027-remove-element.java",
+          "sha": "a1ef47cfc6cb91c4a9f97b2b73077dca58c36b0e",
+          "lastSyncedAt": "2026-11-08T09:01:22.646Z"
         }
       ]
     },
