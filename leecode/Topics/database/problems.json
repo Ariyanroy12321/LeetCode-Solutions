@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "database",
+    "name": "Database",
+    "tagId": "61043"
+  },
+  "updatedAt": "2026-11-08T08:54:38.945Z",
+  "problems": [
+    {
+      "frontendId": "182",
+      "title": "Duplicate Emails",
+      "slug": "duplicate-emails",
+      "problemName": "0182-duplicate-emails",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/duplicate-emails/",
+      "folderPath": "leecode/0182-duplicate-emails/",
+      "readmePath": "leecode/0182-duplicate-emails/README.md",
+      "solutions": [
+        {
+          "language": "MySQL",
+          "extension": ".sql",
+          "filename": "0182-duplicate-emails.sql",
+          "path": "leecode/0182-duplicate-emails/MySQL/0182-duplicate-emails.sql",
+          "sha": "947f27ec5d0193143ae6f043a3dcd23819c5aef2",
+          "lastSyncedAt": "2026-11-08T08:54:38.945Z"
+        }
+      ]
+    }
+  ]
+}
