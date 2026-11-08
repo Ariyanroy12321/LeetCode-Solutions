@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-08T08:59:24.837Z",
+  "updatedAt": "2026-11-08T08:59:38.591Z",
   "problems": [
     {
       "frontendId": "18",
@@ -144,6 +144,26 @@
           "path": "leecode/0581-shortest-unsorted-continuous-subarray/Java/0581-shortest-unsorted-continuous-subarray.java",
           "sha": "d61c2f22b0675f396790defcd106b28bddfdd22f",
           "lastSyncedAt": "2026-11-08T08:58:33.649Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "713",
+      "title": "Subarray Product Less Than K",
+      "slug": "subarray-product-less-than-k",
+      "problemName": "0713-subarray-product-less-than-k",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/subarray-product-less-than-k/",
+      "folderPath": "leecode/0713-subarray-product-less-than-k/",
+      "readmePath": "leecode/0713-subarray-product-less-than-k/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0713-subarray-product-less-than-k.java",
+          "path": "leecode/0713-subarray-product-less-than-k/Java/0713-subarray-product-less-than-k.java",
+          "sha": "646dd2eeaf030d4363f414a9f637e8b520eb9e94",
+          "lastSyncedAt": "2026-11-08T08:59:38.591Z"
         }
       ]
     },
