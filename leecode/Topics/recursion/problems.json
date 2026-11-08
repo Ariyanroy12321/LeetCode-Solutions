@@ -5,8 +5,28 @@
     "name": "Recursion",
     "tagId": "31"
   },
-  "updatedAt": "2026-11-08T08:54:22.516Z",
+  "updatedAt": "2026-11-08T08:56:56.006Z",
   "problems": [
+    {
+      "frontendId": "2",
+      "title": "Add Two Numbers",
+      "slug": "add-two-numbers",
+      "problemName": "0002-add-two-numbers",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/add-two-numbers/",
+      "folderPath": "leecode/0002-add-two-numbers/",
+      "readmePath": "leecode/0002-add-two-numbers/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0002-add-two-numbers.java",
+          "path": "leecode/0002-add-two-numbers/Java/0002-add-two-numbers.java",
+          "sha": "0bac8b64ae43153ee5ae54a3645be12c8fcee624",
+          "lastSyncedAt": "2026-11-08T08:56:56.006Z"
+        }
+      ]
+    },
     {
       "frontendId": "143",
       "title": "Reorder List",
