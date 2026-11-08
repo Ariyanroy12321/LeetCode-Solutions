@@ -5,7 +5,7 @@
     "name": "Counting",
     "tagId": "61062"
   },
-  "updatedAt": "2026-11-08T08:55:34.363Z",
+  "updatedAt": "2026-11-08T08:55:52.092Z",
   "problems": [
     {
       "frontendId": "383",
@@ -24,6 +24,26 @@
           "path": "leecode/0383-ransom-note/Java/0383-ransom-note.java",
           "sha": "d54d5b8fdcd6e364ea573f35aa94825ff8ece233",
           "lastSyncedAt": "2026-11-08T08:55:34.363Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1189",
+      "title": "Maximum Number of Balloons",
+      "slug": "maximum-number-of-balloons",
+      "problemName": "1189-maximum-number-of-balloons",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-balloons/",
+      "folderPath": "leecode/1189-maximum-number-of-balloons/",
+      "readmePath": "leecode/1189-maximum-number-of-balloons/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1189-maximum-number-of-balloons.java",
+          "path": "leecode/1189-maximum-number-of-balloons/Java/1189-maximum-number-of-balloons.java",
+          "sha": "4344f2046e23b9b3f8f68fbc1dfa3bf89a031795",
+          "lastSyncedAt": "2026-11-08T08:55:52.092Z"
         }
       ]
     }
