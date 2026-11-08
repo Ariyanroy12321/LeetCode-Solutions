@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 51 | 26 | 25 | 0 |
+| 52 | 26 | 26 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 0 days | 5 days | 21 |
+| 1 days | 5 days | 22 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-14 | 2 |
 | 2026-10-21 | 1 |
 | 2026-10-22 | 1 |
 | 2026-10-23 | 2 |
@@ -29,18 +28,19 @@ Contains topicwise list of solved problems.
 | 2026-11-03 | 1 |
 | 2026-11-04 | 1 |
 | 2026-11-06 | 9 |
+| 2026-11-08 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 22 | 43% |
-| Two Pointers | 21 | 41% |
+| Array | 23 | 44% |
+| Two Pointers | 21 | 40% |
 | Hash Table | 15 | 29% |
-| Linked List | 10 | 20% |
-| Sorting | 9 | 18% |
-| String | 9 | 18% |
-| Database | 8 | 16% |
+| Linked List | 10 | 19% |
+| Sorting | 9 | 17% |
+| String | 9 | 17% |
+| Database | 8 | 15% |
 | Counting | 6 | 12% |
 | Floyd's Cycle Finding Algorithm | 5 | 10% |
 | Math | 5 | 10% |
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 22 |
+| [Array](Topics/array/) | 23 |
 | [Binary Search](Topics/binary-search/) | 4 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 2 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
@@ -57,8 +57,8 @@ Contains topicwise list of solved problems.
 | [Bucket Sort](Topics/bucket-sort/) | 1 |
 | [Counting](Topics/counting/) | 6 |
 | [Database](Topics/database/) | 8 |
-| [Divide and Conquer](Topics/divide-and-conquer/) | 1 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 3 |
+| [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 4 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 5 |
 | [Greedy](Topics/greedy/) | 4 |
 | [Hash Table](Topics/hash-table/) | 15 |
