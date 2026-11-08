@@ -5,8 +5,28 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-08T08:58:01.932Z",
+  "updatedAt": "2026-11-08T08:58:12.249Z",
   "problems": [
+    {
+      "frontendId": "141",
+      "title": "Linked List Cycle",
+      "slug": "linked-list-cycle",
+      "problemName": "0141-linked-list-cycle",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/linked-list-cycle/",
+      "folderPath": "leecode/0141-linked-list-cycle/",
+      "readmePath": "leecode/0141-linked-list-cycle/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0141-linked-list-cycle.java",
+          "path": "leecode/0141-linked-list-cycle/Java/0141-linked-list-cycle.java",
+          "sha": "167e722277d27191b6c671f5cc0d92236652d397",
+          "lastSyncedAt": "2026-11-08T08:58:12.249Z"
+        }
+      ]
+    },
     {
       "frontendId": "142",
       "title": "Linked List Cycle II",
