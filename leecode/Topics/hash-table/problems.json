@@ -5,8 +5,28 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-08T09:01:38.888Z",
+  "updatedAt": "2026-11-08T09:01:53.592Z",
   "problems": [
+    {
+      "frontendId": "1",
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "problemName": "0001-two-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum/",
+      "folderPath": "leecode/0001-two-sum/",
+      "readmePath": "leecode/0001-two-sum/README.md",
+      "solutions": [
+        {
+          "language": "Python",
+          "extension": ".py",
+          "filename": "0001-two-sum.py",
+          "path": "leecode/0001-two-sum/Python/0001-two-sum.py",
+          "sha": "2683b4212c6a5a2347e8a2446d55d335744c1c89",
+          "lastSyncedAt": "2026-11-08T09:01:53.592Z"
+        }
+      ]
+    },
     {
       "frontendId": "3",
       "title": "Longest Substring Without Repeating Characters",
