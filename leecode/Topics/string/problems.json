@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-08T08:56:29.913Z",
+  "updatedAt": "2026-11-08T08:58:49.705Z",
   "problems": [
     {
       "frontendId": "3",
@@ -104,6 +104,26 @@
           "path": "leecode/0451-sort-characters-by-frequency/Java/0451-sort-characters-by-frequency.java",
           "sha": "f0cc8180f6f258f510c517a2bb84c2506d51d316",
           "lastSyncedAt": "2026-11-08T08:56:00.919Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "844",
+      "title": "Backspace String Compare",
+      "slug": "backspace-string-compare",
+      "problemName": "0844-backspace-string-compare",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/backspace-string-compare/",
+      "folderPath": "leecode/0844-backspace-string-compare/",
+      "readmePath": "leecode/0844-backspace-string-compare/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0844-backspace-string-compare.java",
+          "path": "leecode/0844-backspace-string-compare/Java/0844-backspace-string-compare.java",
+          "sha": "5546d3a24c3254f71dc16f3197cdf3a31d608acb",
+          "lastSyncedAt": "2026-11-08T08:58:49.705Z"
         }
       ]
     },
