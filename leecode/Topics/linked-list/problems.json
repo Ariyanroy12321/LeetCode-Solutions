@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-08T08:56:56.006Z",
+  "updatedAt": "2026-11-08T08:57:18.548Z",
   "problems": [
     {
       "frontendId": "2",
@@ -44,6 +44,26 @@
           "path": "leecode/0143-reorder-list/Java/0143-reorder-list.java",
           "sha": "f62b3400787bf73c5dbb77862fc913a535337f8b",
           "lastSyncedAt": "2026-11-08T08:54:22.516Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "234",
+      "title": "Palindrome Linked List",
+      "slug": "palindrome-linked-list",
+      "problemName": "0234-palindrome-linked-list",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/palindrome-linked-list/",
+      "folderPath": "leecode/0234-palindrome-linked-list/",
+      "readmePath": "leecode/0234-palindrome-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0234-palindrome-linked-list.java",
+          "path": "leecode/0234-palindrome-linked-list/Java/0234-palindrome-linked-list.java",
+          "sha": "4e01b57a3c686035ecf8f12929d3b31db006c2db",
+          "lastSyncedAt": "2026-11-08T08:57:18.548Z"
         }
       ]
     },
