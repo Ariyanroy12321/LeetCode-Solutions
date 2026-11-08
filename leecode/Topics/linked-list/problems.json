@@ -5,7 +5,7 @@
     "name": "Linked List",
     "tagId": "7"
   },
-  "updatedAt": "2026-11-08T08:57:18.548Z",
+  "updatedAt": "2026-11-08T08:57:28.605Z",
   "problems": [
     {
       "frontendId": "2",
@@ -84,6 +84,26 @@
           "path": "leecode/0328-odd-even-linked-list/Java/0328-odd-even-linked-list.java",
           "sha": "783edecc1fae7573397e3306a4013ec1b50ed772",
           "lastSyncedAt": "2026-11-08T08:56:50.522Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "876",
+      "title": "Middle of the Linked List",
+      "slug": "middle-of-the-linked-list",
+      "problemName": "0876-middle-of-the-linked-list",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/middle-of-the-linked-list/",
+      "folderPath": "leecode/0876-middle-of-the-linked-list/",
+      "readmePath": "leecode/0876-middle-of-the-linked-list/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0876-middle-of-the-linked-list.java",
+          "path": "leecode/0876-middle-of-the-linked-list/Java/0876-middle-of-the-linked-list.java",
+          "sha": "e544eedce8fc1e1d095fb602a0c64f1bf6837b2d",
+          "lastSyncedAt": "2026-11-08T08:57:28.605Z"
         }
       ]
     }
