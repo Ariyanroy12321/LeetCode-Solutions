@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-08T08:59:01.998Z",
+  "updatedAt": "2026-11-08T08:59:11.272Z",
   "problems": [
     {
       "frontendId": "18",
@@ -44,6 +44,26 @@
           "path": "leecode/0122-best-time-to-buy-and-sell-stock-ii/0122-best-time-to-buy-and-sell-stock-ii.java",
           "sha": "2891f2a389936df669b5623e4df1173210ae7a54",
           "lastSyncedAt": "2026-11-08T08:54:08.385Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "209",
+      "title": "Minimum Size Subarray Sum",
+      "slug": "minimum-size-subarray-sum",
+      "problemName": "0209-minimum-size-subarray-sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/minimum-size-subarray-sum/",
+      "folderPath": "leecode/0209-minimum-size-subarray-sum/",
+      "readmePath": "leecode/0209-minimum-size-subarray-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0209-minimum-size-subarray-sum.java",
+          "path": "leecode/0209-minimum-size-subarray-sum/Java/0209-minimum-size-subarray-sum.java",
+          "sha": "5239a4a1cc34f3fd2be625230eb7ea3f0e53a992",
+          "lastSyncedAt": "2026-11-08T08:59:11.272Z"
         }
       ]
     },
