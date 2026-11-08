@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-11-08T08:54:08.385Z",
+  "updatedAt": "2026-11-08T08:55:44.488Z",
   "problems": [
     {
       "frontendId": "122",
@@ -24,6 +24,26 @@
           "path": "leecode/0122-best-time-to-buy-and-sell-stock-ii/0122-best-time-to-buy-and-sell-stock-ii.java",
           "sha": "2891f2a389936df669b5623e4df1173210ae7a54",
           "lastSyncedAt": "2026-11-08T08:54:08.385Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "409",
+      "title": "Longest Palindrome",
+      "slug": "longest-palindrome",
+      "problemName": "0409-longest-palindrome",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-palindrome/",
+      "folderPath": "leecode/0409-longest-palindrome/",
+      "readmePath": "leecode/0409-longest-palindrome/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0409-longest-palindrome.java",
+          "path": "leecode/0409-longest-palindrome/Java/0409-longest-palindrome.java",
+          "sha": "8873c599a5f29a54466b3ac28368c82b5914ff24",
+          "lastSyncedAt": "2026-11-08T08:55:44.488Z"
         }
       ]
     }
