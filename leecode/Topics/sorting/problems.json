@@ -5,8 +5,28 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-08T08:58:33.649Z",
+  "updatedAt": "2026-11-08T08:59:01.998Z",
   "problems": [
+    {
+      "frontendId": "18",
+      "title": "4Sum",
+      "slug": "4sum",
+      "problemName": "0018-4sum",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/4sum/",
+      "folderPath": "leecode/0018-4sum/",
+      "readmePath": "leecode/0018-4sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0018-4sum.java",
+          "path": "leecode/0018-4sum/Java/0018-4sum.java",
+          "sha": "382c774a0f9fc20fd6e9c716fba268466d2ca3db",
+          "lastSyncedAt": "2026-11-08T08:59:01.998Z"
+        }
+      ]
+    },
     {
       "frontendId": "451",
       "title": "Sort Characters By Frequency",
