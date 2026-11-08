@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "floyds-cycle-finding-algorithm",
+    "name": "Floyd's Cycle Finding Algorithm",
+    "tagId": "122033"
+  },
+  "updatedAt": "2026-11-08T08:57:06.772Z",
+  "problems": [
+    {
+      "frontendId": "457",
+      "title": "Circular Array Loop",
+      "slug": "circular-array-loop",
+      "problemName": "0457-circular-array-loop",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/circular-array-loop/",
+      "folderPath": "leecode/0457-circular-array-loop/",
+      "readmePath": "leecode/0457-circular-array-loop/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0457-circular-array-loop.java",
+          "path": "leecode/0457-circular-array-loop/Java/0457-circular-array-loop.java",
+          "sha": "132045488bdda0a20fb8c532876b54847329e83f",
+          "lastSyncedAt": "2026-11-08T08:57:06.772Z"
+        }
+      ]
+    }
+  ]
+}
