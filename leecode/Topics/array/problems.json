@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-08T08:54:08.385Z",
+  "updatedAt": "2026-11-08T08:56:42.159Z",
   "problems": [
     {
       "frontendId": "122",
@@ -24,6 +24,26 @@
           "path": "leecode/0122-best-time-to-buy-and-sell-stock-ii/0122-best-time-to-buy-and-sell-stock-ii.java",
           "sha": "2891f2a389936df669b5623e4df1173210ae7a54",
           "lastSyncedAt": "2026-11-08T08:54:08.385Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "904",
+      "title": "Fruit Into Baskets",
+      "slug": "fruit-into-baskets",
+      "problemName": "0904-fruit-into-baskets",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/fruit-into-baskets/",
+      "folderPath": "leecode/0904-fruit-into-baskets/",
+      "readmePath": "leecode/0904-fruit-into-baskets/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0904-fruit-into-baskets.java",
+          "path": "leecode/0904-fruit-into-baskets/Java/0904-fruit-into-baskets.java",
+          "sha": "ef81e1d6b0d0048a75f54790970a880ab1547521",
+          "lastSyncedAt": "2026-11-08T08:56:42.159Z"
         }
       ]
     }
