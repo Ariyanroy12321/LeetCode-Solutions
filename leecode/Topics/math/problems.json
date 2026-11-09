@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-08T09:01:48.625Z",
+  "updatedAt": "2026-11-09T13:56:27.696Z",
   "problems": [
     {
       "frontendId": "2",
@@ -24,6 +24,26 @@
           "path": "leecode/0002-add-two-numbers/Java/0002-add-two-numbers.java",
           "sha": "0bac8b64ae43153ee5ae54a3645be12c8fcee624",
           "lastSyncedAt": "2026-11-08T08:56:56.006Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "7",
+      "title": "Reverse Integer",
+      "slug": "reverse-integer",
+      "problemName": "0007-reverse-integer",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-integer/",
+      "folderPath": "leecode/0007-reverse-integer/",
+      "readmePath": "leecode/0007-reverse-integer/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0007-reverse-integer.java",
+          "path": "leecode/0007-reverse-integer/Java/0007-reverse-integer.java",
+          "sha": "e8883b048ff239b1994470a411d847e73358048c",
+          "lastSyncedAt": "2026-11-09T13:56:27.696Z"
         }
       ]
     },
