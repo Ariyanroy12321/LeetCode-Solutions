@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 52 | 26 | 26 | 0 |
+| 53 | 26 | 27 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 5 days | 22 |
+| 2 days | 5 days | 23 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-21 | 1 |
 | 2026-10-22 | 1 |
 | 2026-10-23 | 2 |
 | 2026-10-24 | 3 |
@@ -29,21 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-11-04 | 1 |
 | 2026-11-06 | 9 |
 | 2026-11-08 | 1 |
+| 2026-11-09 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 23 | 44% |
+| Array | 23 | 43% |
 | Two Pointers | 21 | 40% |
-| Hash Table | 15 | 29% |
+| Hash Table | 15 | 28% |
 | Linked List | 10 | 19% |
 | Sorting | 9 | 17% |
 | String | 9 | 17% |
 | Database | 8 | 15% |
-| Counting | 6 | 12% |
-| Floyd's Cycle Finding Algorithm | 5 | 10% |
-| Math | 5 | 10% |
+| Counting | 6 | 11% |
+| Math | 6 | 11% |
+| Floyd's Cycle Finding Algorithm | 5 | 9% |
 
 ## Topics
 
@@ -64,7 +64,7 @@ Contains topicwise list of solved problems.
 | [Hash Table](Topics/hash-table/) | 15 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Linked List](Topics/linked-list/) | 10 |
-| [Math](Topics/math/) | 5 |
+| [Math](Topics/math/) | 6 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Pigeonhole Principle](Topics/pigeonhole-principle/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 2 |
