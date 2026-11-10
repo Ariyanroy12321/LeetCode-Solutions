@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-08T09:48:59.365Z",
+  "updatedAt": "2026-11-10T17:58:52.983Z",
   "problems": [
     {
       "frontendId": "1",
@@ -264,6 +264,26 @@
           "path": "leecode/0122-best-time-to-buy-and-sell-stock-ii/0122-best-time-to-buy-and-sell-stock-ii.java",
           "sha": "2891f2a389936df669b5623e4df1173210ae7a54",
           "lastSyncedAt": "2026-11-08T08:54:08.385Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "152",
+      "title": "Maximum Product Subarray",
+      "slug": "maximum-product-subarray",
+      "problemName": "0152-maximum-product-subarray",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-product-subarray/",
+      "folderPath": "leecode/0152-maximum-product-subarray/",
+      "readmePath": "leecode/0152-maximum-product-subarray/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0152-maximum-product-subarray.java",
+          "path": "leecode/0152-maximum-product-subarray/Java/0152-maximum-product-subarray.java",
+          "sha": "4ea2d0390849002f01b37ea2b198e7562ff407fe",
+          "lastSyncedAt": "2026-11-10T17:58:52.983Z"
         }
       ]
     },
