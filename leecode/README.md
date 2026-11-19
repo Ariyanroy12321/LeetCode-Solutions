@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 55 | 26 | 29 | 0 |
+| 56 | 26 | 30 | 0 |
 
 ## Activity
 
@@ -28,29 +28,29 @@ Contains topicwise list of solved problems.
 | 2026-11-08 | 1 |
 | 2026-11-09 | 1 |
 | 2026-11-10 | 1 |
-| 2026-11-20 | 1 |
+| 2026-11-20 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
 | Array | 25 | 45% |
-| Two Pointers | 21 | 38% |
+| Two Pointers | 22 | 39% |
 | Hash Table | 15 | 27% |
 | Linked List | 10 | 18% |
 | Sorting | 9 | 16% |
 | String | 9 | 16% |
-| Database | 8 | 15% |
+| Database | 8 | 14% |
+| Math | 7 | 13% |
 | Counting | 6 | 11% |
 | Dynamic Programming | 6 | 11% |
-| Math | 6 | 11% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
 | [Array](Topics/array/) | 25 |
-| [Binary Search](Topics/binary-search/) | 4 |
+| [Binary Search](Topics/binary-search/) | 5 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 2 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
@@ -64,7 +64,7 @@ Contains topicwise list of solved problems.
 | [Hash Table](Topics/hash-table/) | 15 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Linked List](Topics/linked-list/) | 10 |
-| [Math](Topics/math/) | 6 |
+| [Math](Topics/math/) | 7 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Pigeonhole Principle](Topics/pigeonhole-principle/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 2 |
@@ -76,5 +76,5 @@ Contains topicwise list of solved problems.
 | [Sorting](Topics/sorting/) | 9 |
 | [Stack](Topics/stack/) | 4 |
 | [String](Topics/string/) | 9 |
-| [Two Pointers](Topics/two-pointers/) | 21 |
+| [Two Pointers](Topics/two-pointers/) | 22 |
 <!---LeetHub Summary End-->
