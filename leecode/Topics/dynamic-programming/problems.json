@@ -5,8 +5,28 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-19T22:05:47.190Z",
+  "updatedAt": "2026-11-20T18:01:19.570Z",
   "problems": [
+    {
+      "frontendId": "5",
+      "title": "Longest Palindromic Substring",
+      "slug": "longest-palindromic-substring",
+      "problemName": "0005-longest-palindromic-substring",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/longest-palindromic-substring/",
+      "folderPath": "leecode/0005-longest-palindromic-substring/",
+      "readmePath": "leecode/0005-longest-palindromic-substring/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0005-longest-palindromic-substring.java",
+          "path": "leecode/0005-longest-palindromic-substring/Java/0005-longest-palindromic-substring.java",
+          "sha": "5ef8357687598ec562ca3249744eb9891e2e2c1b",
+          "lastSyncedAt": "2026-11-20T18:01:19.570Z"
+        }
+      ]
+    },
     {
       "frontendId": "53",
       "title": "Maximum Subarray",
