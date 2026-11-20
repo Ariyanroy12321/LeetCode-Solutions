@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-20T18:10:57.701Z",
+  "updatedAt": "2026-11-20T18:13:47.015Z",
   "problems": [
     {
       "frontendId": "3",
@@ -43,7 +43,7 @@
           "filename": "0005-longest-palindromic-substring.java",
           "path": "leecode/0005-longest-palindromic-substring/Java/0005-longest-palindromic-substring.java",
           "sha": "5ef8357687598ec562ca3249744eb9891e2e2c1b",
-          "lastSyncedAt": "2026-11-20T18:10:57.701Z"
+          "lastSyncedAt": "2026-11-20T18:13:47.015Z"
         }
       ]
     },
