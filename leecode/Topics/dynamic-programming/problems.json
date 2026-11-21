@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-20T18:13:47.015Z",
+  "updatedAt": "2026-11-21T13:24:25.993Z",
   "problems": [
     {
       "frontendId": "5",
@@ -124,6 +124,26 @@
           "path": "leecode/0152-maximum-product-subarray/Java/0152-maximum-product-subarray.java",
           "sha": "4ea2d0390849002f01b37ea2b198e7562ff407fe",
           "lastSyncedAt": "2026-11-10T17:58:52.983Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "647",
+      "title": "Palindromic Substrings",
+      "slug": "palindromic-substrings",
+      "problemName": "0647-palindromic-substrings",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/palindromic-substrings/",
+      "folderPath": "leecode/0647-palindromic-substrings/",
+      "readmePath": "leecode/0647-palindromic-substrings/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0647-palindromic-substrings.java",
+          "path": "leecode/0647-palindromic-substrings/Java/0647-palindromic-substrings.java",
+          "sha": "f90e7e1cdef4677b7cf2fc139a1339a32a70a377",
+          "lastSyncedAt": "2026-11-21T13:24:25.993Z"
         }
       ]
     },
