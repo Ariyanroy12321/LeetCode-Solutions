@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 57 | 26 | 31 | 0 |
+| 58 | 27 | 31 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 5 days | 25 |
+| 1 days | 5 days | 26 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-24 | 3 |
 | 2026-10-25 | 5 |
 | 2026-10-27 | 3 |
 | 2026-10-29 | 1 |
@@ -29,21 +28,22 @@ Contains topicwise list of solved problems.
 | 2026-11-09 | 1 |
 | 2026-11-10 | 1 |
 | 2026-11-20 | 3 |
+| 2026-11-23 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 25 | 44% |
+| Array | 25 | 43% |
 | Two Pointers | 23 | 40% |
 | Hash Table | 15 | 26% |
-| Linked List | 10 | 18% |
-| String | 10 | 18% |
+| Linked List | 11 | 19% |
+| String | 10 | 17% |
 | Sorting | 9 | 16% |
 | Database | 8 | 14% |
 | Dynamic Programming | 7 | 12% |
 | Math | 7 | 12% |
-| Counting | 6 | 11% |
+| Counting | 6 | 10% |
 
 ## Topics
 
@@ -58,12 +58,12 @@ Contains topicwise list of solved problems.
 | [Counting](Topics/counting/) | 6 |
 | [Database](Topics/database/) | 8 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 7 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 8 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 5 |
 | [Greedy](Topics/greedy/) | 4 |
 | [Hash Table](Topics/hash-table/) | 15 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
-| [Linked List](Topics/linked-list/) | 10 |
+| [Linked List](Topics/linked-list/) | 11 |
 | [Manacher](Topics/manacher/) | 1 |
 | [Math](Topics/math/) | 7 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
@@ -71,11 +71,11 @@ Contains topicwise list of solved problems.
 | [Prefix Sum](Topics/prefix-sum/) | 2 |
 | [Queue](Topics/queue/) | 1 |
 | [Quicksort](Topics/quicksort/) | 1 |
-| [Recursion](Topics/recursion/) | 4 |
+| [Recursion](Topics/recursion/) | 5 |
 | [Simulation](Topics/simulation/) | 1 |
 | [Sliding Window](Topics/sliding-window/) | 4 |
 | [Sorting](Topics/sorting/) | 9 |
 | [Stack](Topics/stack/) | 4 |
-| [String](Topics/string/) | 10 |
-| [Two Pointers](Topics/two-pointers/) | 23 |
+| [String](Topics/string/) | 11 |
+| [Two Pointers](Topics/two-pointers/) | 24 |
 <!---LeetHub Summary End-->
