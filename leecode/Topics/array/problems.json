@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-19T22:05:47.190Z",
+  "updatedAt": "2026-11-23T10:38:57.188Z",
   "problems": [
     {
       "frontendId": "1",
@@ -484,6 +484,26 @@
           "path": "leecode/0977-squares-of-a-sorted-array/Java/0977-squares-of-a-sorted-array.java",
           "sha": "e939aa926a62da3ab1058276e56f9a49c56903c4",
           "lastSyncedAt": "2026-11-08T09:00:17.738Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1186",
+      "title": "Maximum Subarray Sum with One Deletion",
+      "slug": "maximum-subarray-sum-with-one-deletion",
+      "problemName": "1186-maximum-subarray-sum-with-one-deletion",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/",
+      "folderPath": "leecode/1186-maximum-subarray-sum-with-one-deletion/",
+      "readmePath": "leecode/1186-maximum-subarray-sum-with-one-deletion/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1186-maximum-subarray-sum-with-one-deletion.java",
+          "path": "leecode/1186-maximum-subarray-sum-with-one-deletion/Java/1186-maximum-subarray-sum-with-one-deletion.java",
+          "sha": "f51d4e3475c837c63aea9262142ce4be935fd8e2",
+          "lastSyncedAt": "2026-11-23T10:38:57.188Z"
         }
       ]
     },
