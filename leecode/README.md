@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 59 | 27 | 32 | 0 |
+| 60 | 27 | 33 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 1 days | 5 days | 26 |
+| 1 days | 5 days | 27 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-25 | 5 |
 | 2026-10-27 | 3 |
 | 2026-10-29 | 1 |
 | 2026-10-30 | 2 |
@@ -29,19 +28,20 @@ Contains topicwise list of solved problems.
 | 2026-11-10 | 1 |
 | 2026-11-20 | 3 |
 | 2026-11-23 | 2 |
+| 2026-11-25 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 26 | 44% |
-| Two Pointers | 23 | 39% |
-| Hash Table | 15 | 25% |
-| Linked List | 11 | 19% |
-| String | 10 | 17% |
+| Array | 26 | 43% |
+| Two Pointers | 23 | 38% |
+| Hash Table | 16 | 27% |
+| Linked List | 11 | 18% |
+| String | 11 | 18% |
 | Sorting | 9 | 15% |
-| Database | 8 | 14% |
-| Dynamic Programming | 8 | 14% |
+| Database | 8 | 13% |
+| Dynamic Programming | 8 | 13% |
 | Math | 7 | 12% |
 | Counting | 6 | 10% |
 
@@ -61,7 +61,7 @@ Contains topicwise list of solved problems.
 | [Dynamic Programming](Topics/dynamic-programming/) | 9 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 5 |
 | [Greedy](Topics/greedy/) | 4 |
-| [Hash Table](Topics/hash-table/) | 15 |
+| [Hash Table](Topics/hash-table/) | 16 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Linked List](Topics/linked-list/) | 11 |
 | [Manacher](Topics/manacher/) | 1 |
@@ -73,9 +73,9 @@ Contains topicwise list of solved problems.
 | [Quicksort](Topics/quicksort/) | 1 |
 | [Recursion](Topics/recursion/) | 5 |
 | [Simulation](Topics/simulation/) | 1 |
-| [Sliding Window](Topics/sliding-window/) | 4 |
+| [Sliding Window](Topics/sliding-window/) | 5 |
 | [Sorting](Topics/sorting/) | 9 |
 | [Stack](Topics/stack/) | 4 |
-| [String](Topics/string/) | 11 |
+| [String](Topics/string/) | 12 |
 | [Two Pointers](Topics/two-pointers/) | 24 |
 <!---LeetHub Summary End-->
