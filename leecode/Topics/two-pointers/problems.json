@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-21T13:24:25.993Z",
+  "updatedAt": "2026-11-25T10:32:51.770Z",
   "problems": [
     {
       "frontendId": "5",
@@ -24,6 +24,26 @@
           "path": "leecode/0005-longest-palindromic-substring/Java/0005-longest-palindromic-substring.java",
           "sha": "5ef8357687598ec562ca3249744eb9891e2e2c1b",
           "lastSyncedAt": "2026-11-20T18:13:47.015Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "11",
+      "title": "Container With Most Water",
+      "slug": "container-with-most-water",
+      "problemName": "0011-container-with-most-water",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/container-with-most-water/",
+      "folderPath": "leecode/0011-container-with-most-water/",
+      "readmePath": "leecode/0011-container-with-most-water/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0011-container-with-most-water.java",
+          "path": "leecode/0011-container-with-most-water/Java/0011-container-with-most-water.java",
+          "sha": "7d61e64779c086105ca033bccfa0c25b71c4defc",
+          "lastSyncedAt": "2026-11-25T10:32:51.770Z"
         }
       ]
     },
