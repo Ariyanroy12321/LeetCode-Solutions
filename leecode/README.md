@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 62 | 27 | 35 | 0 |
+| 63 | 27 | 36 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 2 days | 5 days | 28 |
+| 3 days | 5 days | 29 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-29 | 1 |
 | 2026-10-30 | 2 |
 | 2026-11-01 | 1 |
 | 2026-11-02 | 3 |
@@ -29,27 +28,28 @@ Contains topicwise list of solved problems.
 | 2026-11-23 | 2 |
 | 2026-11-25 | 2 |
 | 2026-11-26 | 1 |
+| 2026-11-27 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 27 | 44% |
+| Array | 28 | 44% |
 | Two Pointers | 25 | 40% |
-| Hash Table | 16 | 26% |
+| Hash Table | 16 | 25% |
 | Linked List | 12 | 19% |
-| String | 11 | 18% |
-| Sorting | 9 | 15% |
+| String | 11 | 17% |
+| Sorting | 9 | 14% |
 | Database | 8 | 13% |
 | Dynamic Programming | 8 | 13% |
-| Math | 7 | 11% |
+| Math | 8 | 13% |
 | Counting | 6 | 10% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 27 |
+| [Array](Topics/array/) | 28 |
 | [Binary Search](Topics/binary-search/) | 5 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 2 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
@@ -65,7 +65,8 @@ Contains topicwise list of solved problems.
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Linked List](Topics/linked-list/) | 12 |
 | [Manacher](Topics/manacher/) | 1 |
-| [Math](Topics/math/) | 7 |
+| [Math](Topics/math/) | 8 |
+| [Matrix](Topics/matrix/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Pigeonhole Principle](Topics/pigeonhole-principle/) | 1 |
 | [Prefix Sum](Topics/prefix-sum/) | 2 |
