@@ -5,7 +5,7 @@
     "name": "Dynamic Programming",
     "tagId": "13"
   },
-  "updatedAt": "2026-11-27T21:08:25.854Z",
+  "updatedAt": "2026-11-27T21:20:47.198Z",
   "problems": [
     {
       "frontendId": "5",
@@ -183,7 +183,7 @@
           "filename": "1567-maximum-length-of-subarray-with-positive-product.java",
           "path": "leecode/1567-maximum-length-of-subarray-with-positive-product/Java/1567-maximum-length-of-subarray-with-positive-product.java",
           "sha": "c761cff076865b1b57883c54cc733d06cfebe3be",
-          "lastSyncedAt": "2026-11-27T21:08:25.854Z"
+          "lastSyncedAt": "2026-11-27T21:20:47.198Z"
         }
       ]
     },
