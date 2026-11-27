@@ -5,17 +5,16 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 64 | 27 | 37 | 0 |
+| 65 | 27 | 38 | 0 |
 
 ## Activity
 
 | Current Streak | Best Streak | Active Days |
 | ---: | ---: | ---: |
-| 3 days | 5 days | 29 |
+| 4 days | 5 days | 30 |
 
 | Date | Problems |
 | --- | ---: |
-| 2026-10-30 | 2 |
 | 2026-11-01 | 1 |
 | 2026-11-02 | 3 |
 | 2026-11-03 | 1 |
@@ -29,28 +28,29 @@ Contains topicwise list of solved problems.
 | 2026-11-25 | 2 |
 | 2026-11-26 | 1 |
 | 2026-11-27 | 2 |
+| 2026-11-28 | 1 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 28 | 44% |
-| Two Pointers | 25 | 39% |
+| Array | 29 | 45% |
+| Two Pointers | 25 | 38% |
 | Hash Table | 16 | 25% |
-| Linked List | 12 | 19% |
-| String | 12 | 19% |
+| Linked List | 12 | 18% |
+| String | 12 | 18% |
 | Sorting | 9 | 14% |
-| Database | 8 | 13% |
-| Dynamic Programming | 8 | 13% |
-| Math | 8 | 13% |
-| Counting | 6 | 9% |
+| Database | 8 | 12% |
+| Dynamic Programming | 8 | 12% |
+| Math | 8 | 12% |
+| Binary Search | 6 | 9% |
 
 ## Topics
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 28 |
-| [Binary Search](Topics/binary-search/) | 5 |
+| [Array](Topics/array/) | 29 |
+| [Binary Search](Topics/binary-search/) | 6 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 2 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
 | [Bubble Sort](Topics/bubble-sort/) | 1 |
@@ -69,12 +69,12 @@ Contains topicwise list of solved problems.
 | [Matrix](Topics/matrix/) | 1 |
 | [Monotonic Stack](Topics/monotonic-stack/) | 1 |
 | [Pigeonhole Principle](Topics/pigeonhole-principle/) | 1 |
-| [Prefix Sum](Topics/prefix-sum/) | 2 |
+| [Prefix Sum](Topics/prefix-sum/) | 3 |
 | [Queue](Topics/queue/) | 1 |
 | [Quicksort](Topics/quicksort/) | 1 |
 | [Recursion](Topics/recursion/) | 5 |
 | [Simulation](Topics/simulation/) | 1 |
-| [Sliding Window](Topics/sliding-window/) | 5 |
+| [Sliding Window](Topics/sliding-window/) | 6 |
 | [Sorting](Topics/sorting/) | 9 |
 | [Stack](Topics/stack/) | 4 |
 | [String](Topics/string/) | 13 |
