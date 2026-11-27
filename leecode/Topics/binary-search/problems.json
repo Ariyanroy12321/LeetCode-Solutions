@@ -5,7 +5,7 @@
     "name": "Binary Search",
     "tagId": "11"
   },
-  "updatedAt": "2026-11-27T20:02:16.714Z",
+  "updatedAt": "2026-11-27T20:02:30.590Z",
   "problems": [
     {
       "frontendId": "167",
@@ -123,7 +123,7 @@
           "filename": "1004-max-consecutive-ones-iii.java",
           "path": "leecode/1004-max-consecutive-ones-iii/Java/1004-max-consecutive-ones-iii.java",
           "sha": "43f86108c6bd1b7abd0eb2fb952f3e62fb24e4e1",
-          "lastSyncedAt": "2026-11-27T20:02:16.714Z"
+          "lastSyncedAt": "2026-11-27T20:02:30.590Z"
         }
       ]
     }
