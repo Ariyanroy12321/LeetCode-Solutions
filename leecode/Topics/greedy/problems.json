@@ -5,7 +5,7 @@
     "name": "Greedy",
     "tagId": "17"
   },
-  "updatedAt": "2026-11-26T17:42:26.388Z",
+  "updatedAt": "2026-11-27T20:59:28.841Z",
   "problems": [
     {
       "frontendId": "11",
@@ -104,6 +104,26 @@
           "path": "leecode/0581-shortest-unsorted-continuous-subarray/Java/0581-shortest-unsorted-continuous-subarray.java",
           "sha": "d61c2f22b0675f396790defcd106b28bddfdd22f",
           "lastSyncedAt": "2026-11-08T08:58:33.649Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1567",
+      "title": "Maximum Length of Subarray With Positive Product",
+      "slug": "maximum-length-of-subarray-with-positive-product",
+      "problemName": "1567-maximum-length-of-subarray-with-positive-product",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-length-of-subarray-with-positive-product/",
+      "folderPath": "leecode/1567-maximum-length-of-subarray-with-positive-product/",
+      "readmePath": "leecode/1567-maximum-length-of-subarray-with-positive-product/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1567-maximum-length-of-subarray-with-positive-product.java",
+          "path": "leecode/1567-maximum-length-of-subarray-with-positive-product/Java/1567-maximum-length-of-subarray-with-positive-product.java",
+          "sha": "c761cff076865b1b57883c54cc733d06cfebe3be",
+          "lastSyncedAt": "2026-11-27T20:59:28.841Z"
         }
       ]
     }
