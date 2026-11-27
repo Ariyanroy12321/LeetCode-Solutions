@@ -5,7 +5,7 @@ Contains topicwise list of solved problems.
 
 | Total Solved | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 65 | 27 | 38 | 0 |
+| 66 | 27 | 39 | 0 |
 
 ## Activity
 
@@ -28,20 +28,20 @@ Contains topicwise list of solved problems.
 | 2026-11-25 | 2 |
 | 2026-11-26 | 1 |
 | 2026-11-27 | 2 |
-| 2026-11-28 | 1 |
+| 2026-11-28 | 2 |
 
 ## Top Tags
 
 | Tag | Problems | Coverage |
 | --- | ---: | ---: |
-| Array | 29 | 45% |
+| Array | 30 | 45% |
 | Two Pointers | 25 | 38% |
-| Hash Table | 16 | 25% |
+| Hash Table | 16 | 24% |
 | Linked List | 12 | 18% |
 | String | 12 | 18% |
+| Dynamic Programming | 9 | 14% |
 | Sorting | 9 | 14% |
 | Database | 8 | 12% |
-| Dynamic Programming | 8 | 12% |
 | Math | 8 | 12% |
 | Binary Search | 6 | 9% |
 
@@ -49,7 +49,7 @@ Contains topicwise list of solved problems.
 
 | Topic | Problems |
 | --- | ---: |
-| [Array](Topics/array/) | 29 |
+| [Array](Topics/array/) | 30 |
 | [Binary Search](Topics/binary-search/) | 6 |
 | [Bit Manipulation](Topics/bit-manipulation/) | 2 |
 | [Boyer–Moore Majority Vote Algorithm](Topics/boyer-moore-majority-vote-algorithm/) | 1 |
@@ -58,9 +58,9 @@ Contains topicwise list of solved problems.
 | [Counting](Topics/counting/) | 6 |
 | [Database](Topics/database/) | 8 |
 | [Divide and Conquer](Topics/divide-and-conquer/) | 2 |
-| [Dynamic Programming](Topics/dynamic-programming/) | 9 |
+| [Dynamic Programming](Topics/dynamic-programming/) | 10 |
 | [Floyd's Cycle Finding Algorithm](Topics/floyds-cycle-finding-algorithm/) | 5 |
-| [Greedy](Topics/greedy/) | 5 |
+| [Greedy](Topics/greedy/) | 6 |
 | [Hash Table](Topics/hash-table/) | 16 |
 | [Heap (Priority Queue)](Topics/heap-priority-queue/) | 1 |
 | [Linked List](Topics/linked-list/) | 12 |
